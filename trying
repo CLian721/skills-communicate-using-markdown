@@ -2,3 +2,6 @@
 ### Is this correct?
 ###### I'm so condused
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+``` javascript
+var myVar = "Hello, world!";
+```
